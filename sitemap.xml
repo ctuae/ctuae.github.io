@@ -1,100 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
        <loc>https://crescenttile.ae/index.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/index.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/indexct.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/about.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/about.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/ccct.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/concrete-cable-cover-tiles.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/ccrm.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/concrete-cable-route-markers.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/cb.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/concrete-barrier.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/404.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/decorative-paving-tiles.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/cep.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/concrete-earth-pit.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/profile/CRESCENT%20TILES%20FACTORY%20L.L.C%20-%20COMPANY%20PROFILE%202025-2026.pdf</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/gi-pipe-markers.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/adnoc.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/pipeline-marker-post.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/adac.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
   <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/concrete-slabs-beams.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/wheel-stopper-car-parking.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/feeder-pillar.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/safety-barriers-various-types.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/concrete-foundations-control-cabinet.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/products/concrete-foundation-pole-lighting.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/approvals.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://crescenttile.ae/Crescent-Tiles-Factory/contact.html</loc>
-       <lastmod>2026-09-01T16:48:32+00:00</lastmod>
+       <loc>https://crescenttile.ae/contact.html</loc>
+       <lastmod>2026-10-20T06:36:15+00:00</lastmod>
        <priority>0.6400</priority>
   </url>
 </urlset>
